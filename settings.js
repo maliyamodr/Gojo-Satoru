@@ -19,17 +19,17 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+94714959465']
-global.premium = ['+94714959465']
-global.ownernomer = '+94714959465'
+global.owner = ['94714959465']
+global.premium = ['94714959465']
+global.ownernomer = '94714959465'
 global.ownername = '᮹හිතුවක්කාර҂මලියා"හ්⃞🍁᳅᭄'
 global.botname = 'MλŁł¥λ ₩λ BØ₸'
 global.footer = '@tharinduwa'
-global.ig = 'https://github.com/nexusNw'
-global.region = 'India, South India, Kerala'
+global.ig = 'https://github.com/maliyamodr'
+global.region = 'SRI lankan'
 global.sc = 'https://github.com/maliyamodr/Gojo-Satoru'
 global.myweb = 'https://chat.whatsapp.com/EklURAk6JT0CTG2NdkIJgh'
-global.packname = 'Gojo-Satoru'
+global.packname = 'MλŁł¥λ ₩λ BØ₸'
 global.author = 'MλŁł¥λ ₩λ BØ₸'
 global.sessionName = 'THARINDUWA'
 global.prefa = [':||🐰🌎💫රි̶දෙ̶න̶්න̶ හි̶ත̶̷͢කුත̶් නැ̶ අ̶ඩ̶න̶්න̶ ක̶⃛දු̶ලු̶ත̶් නැ̶⃖']
