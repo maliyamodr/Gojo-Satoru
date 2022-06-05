@@ -31,8 +31,8 @@ global.sc = 'https://github.com/maliyamodr/Gojo-Satoru'
 global.myweb = 'https://chat.whatsapp.com/EklURAk6JT0CTG2NdkIJgh'
 global.packname = 'MλŁł¥λ ₩λ BØ₸'
 global.author = 'MλŁł¥λ ₩λ BØ₸'
-global.sessionName = 'THARINDUWA'
-global.prefa = [':||🐰🌎💫රි̶දෙ̶න̶්න̶ හි̶ත̶̷͢කුත̶් නැ̶ අ̶ඩ̶න̶්න̶ ක̶⃛දු̶ලු̶ත̶් නැ̶⃖']
+global.sessionName = 'session'
+global.prefa = ['','!','.','🍁','💚','🥀']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
